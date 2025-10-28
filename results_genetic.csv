@@ -1,0 +1,2 @@
+timestamp,best_hidden_layer_sizes,activation,solver,learning_rate,pred_2025,accuracy_within_5pct
+2025-10-28T13:57:36.336311,"(16, 8)",identity,adam,adaptive,24422.41448190798,1.0
